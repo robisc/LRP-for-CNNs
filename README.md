@@ -10,3 +10,5 @@ For this implementation I used the following main libraries:
 • tensorﬂow: 1.12.0 
 
 • keras: 2.1.6
+
+For full documentation please see the included pdf
